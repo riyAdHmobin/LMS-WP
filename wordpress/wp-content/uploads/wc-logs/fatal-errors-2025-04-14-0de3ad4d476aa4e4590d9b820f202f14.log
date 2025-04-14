@@ -1,0 +1,30 @@
+2025-04-14T11:19:09+00:00 CRITICAL Uncaught Error: Undefined constant "Vibe_BP_API_NAMESPACE" in /var/www/html/wp-content/plugins/wplms_plugin/includes/gutenberg/class.gutenberg.blocks.php:429
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): Wplms_Plugin_Register_Guten_Blocks->vibebp_block_assets('plugins.php')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'plugins.php')
+#4 /var/www/html/wp-admin/plugins.php(637): require_once('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/plugins/wplms_plugin/includes/gutenberg/class.gutenberg.blocks.php on line 429
+
+2025-04-14T11:19:18+00:00 CRITICAL Uncaught Error: Undefined constant "Vibe_BP_API_NAMESPACE" in /var/www/html/wp-content/plugins/wplms_plugin/includes/gutenberg/class.gutenberg.blocks.php:429
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): Wplms_Plugin_Register_Guten_Blocks->vibebp_block_assets('plugin-install....')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'plugin-install....')
+#4 /var/www/html/wp-admin/plugin-install.php(136): require_once('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/plugins/wplms_plugin/includes/gutenberg/class.gutenberg.blocks.php on line 429
+
+2025-04-14T11:19:21+00:00 CRITICAL Uncaught Error: Undefined constant "Vibe_BP_API_NAMESPACE" in /var/www/html/wp-content/plugins/wplms_plugin/includes/gutenberg/class.gutenberg.blocks.php:429
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): Wplms_Plugin_Register_Guten_Blocks->vibebp_block_assets('index.php')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'index.php')
+#4 /var/www/html/wp-admin/index.php(137): require_once('/var/www/html/w...')
+#5 {main}
+  thrown in /var/www/html/wp-content/plugins/wplms_plugin/includes/gutenberg/class.gutenberg.blocks.php on line 429
+
