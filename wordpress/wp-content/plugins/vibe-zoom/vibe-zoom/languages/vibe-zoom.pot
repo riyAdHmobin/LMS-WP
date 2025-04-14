@@ -1,0 +1,781 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe Zoom\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-10 11:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: VibeThemes <vibethemes@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Version: 2.4.4; wp-5.5.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class.init.php:524
+#, php-format
+msgid " %d days,"
+msgstr ""
+
+#: includes/class.init.php:532
+#, php-format
+msgid " %d hours,"
+msgstr ""
+
+#: includes/class.init.php:540
+#, php-format
+msgid " %d minutes,"
+msgstr ""
+
+#: includes/class.init.php:517
+#, php-format
+msgid " %d months,"
+msgstr ""
+
+#: includes/class.init.php:548
+#, php-format
+msgid " %d seconds"
+msgstr ""
+
+#: includes/class.init.php:510
+#, php-format
+msgid " %d years,"
+msgstr ""
+
+#: includes/class.api.php:502
+#, php-format
+msgid "%s published a new meeting %s"
+msgstr ""
+
+#: includes/class.settings.php:123
+msgid "+"
+msgstr ""
+
+#: includes/functions.php:56
+msgid "1 Day"
+msgstr ""
+
+#: includes/functions.php:52
+msgid "1 Hour"
+msgstr ""
+
+#: includes/functions.php:55
+msgid "12 Hour"
+msgstr ""
+
+#: includes/functions.php:53
+msgid "2 Hour"
+msgstr ""
+
+#: includes/functions.php:54
+msgid "6 Hour"
+msgstr ""
+
+#: includes/class.settings.php:522
+msgid "Add"
+msgstr ""
+
+#: includes/class.settings.php:614
+msgid "Add Field"
+msgstr ""
+
+#: includes/class.settings.php:413
+msgid "Add More"
+msgstr ""
+
+#: includes/class.settings.php:116
+msgid ""
+"Add multiple zoom credential so user can select at the time of create "
+"meeting."
+msgstr ""
+
+#: includes/class.settings.php:122
+msgid "Add New"
+msgstr ""
+
+#: includes/class.init.php:62
+msgid "Add New Meeting"
+msgstr ""
+
+#: includes/class.settings.php:562 includes/class.settings.php:627
+msgid "Add new option"
+msgstr ""
+
+#: includes/class.settings.php:678
+msgid "Add Search block"
+msgstr ""
+
+#: includes/class.settings.php:499
+msgid "Add Searchable Instructor Field"
+msgstr ""
+
+#: includes/class.init.php:153
+msgid "Add Zoom Meeting"
+msgstr ""
+
+#: includes/class.api.php:370
+msgid "Admin(default)"
+msgstr ""
+
+#: includes/class.init.php:258
+msgctxt "api"
+msgid "Alphabetical"
+msgstr ""
+
+#: includes/class.init.php:263 includes/class.init.php:268
+msgctxt "api"
+msgid "Course"
+msgstr ""
+
+#: includes/class.init.php:262 includes/class.init.php:267
+msgctxt "api"
+msgid "Group"
+msgstr ""
+
+#: includes/class.init.php:257
+msgctxt "api"
+msgid "Recent"
+msgstr ""
+
+#: includes/class.init.php:261 includes/class.init.php:266
+msgctxt "api"
+msgid "Shared "
+msgstr ""
+
+#: includes/class.settings.php:189
+msgid "API Key"
+msgstr ""
+
+#: includes/class.init.php:212
+msgid "Attachments"
+msgstr ""
+
+#: includes/class.init.php:297
+msgid "Auto Recording"
+msgstr ""
+
+#: includes/class.api.php:569
+msgid "Can not be moved to trash!"
+msgstr ""
+
+#: includes/class.init.php:332
+msgid "Cancel"
+msgstr ""
+
+#: includes/class.init.php:339
+msgid "Choose credential to create/edit meeting(Optional)"
+msgstr ""
+
+#: includes/class.init.php:318
+msgid "Click To Copy Code"
+msgstr ""
+
+#: includes/class.init.php:317
+msgid "Click To Copy URL"
+msgstr ""
+
+#: includes/class.init.php:204
+msgid "Connect Assignments"
+msgstr ""
+
+#: includes/class.init.php:196
+msgid "Connect Forum with Unit."
+msgstr ""
+
+#: includes/class.actions.php:45
+#, php-format
+msgid "Course %s is connected with ZOOM meeting %s"
+msgstr ""
+
+#: includes/class.actions.php:44
+msgid "Course connected with ZOOM meeting"
+msgstr ""
+
+#: includes/class.init.php:272
+msgid "Create New"
+msgstr ""
+
+#: includes/class.api.php:770
+msgctxt "Data missing!"
+msgid "Data missing!"
+msgstr ""
+
+#: includes/class.init.php:328
+msgid "Day"
+msgstr ""
+
+#: includes/class.init.php:321
+msgid "Days"
+msgstr ""
+
+#: includes/class.init.php:284
+msgid "Description"
+msgstr ""
+
+#: includes/class.init.php:213
+msgid "Display these attachments below units to be downloaded by students"
+msgstr ""
+
+#: includes/class.settings.php:68
+msgid "Enable meeting reminder"
+msgstr ""
+
+#: includes/class.init.php:331 includes/class.init.php:337
+msgid "Ends"
+msgstr ""
+
+#: includes/class.init.php:296
+msgid "Enforce Login"
+msgstr ""
+
+#: includes/class.init.php:175
+msgid "Enter description about the unit."
+msgstr ""
+
+#: includes/class.init.php:187
+msgid "Free Unit"
+msgstr ""
+
+#: includes/class.init.php:293
+msgid "Host Video"
+msgstr ""
+
+#: includes/class.init.php:322
+msgid "Hours"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.Vibethemes.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.vibethemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrates Zoom with wplms"
+msgstr ""
+
+#: includes/class.api.php:638
+msgid "Join activity not recorded"
+msgstr ""
+
+#: includes/class.api.php:645
+msgid "Join activity recorded"
+msgstr ""
+
+#: includes/class.init.php:292
+msgid "Join Before Host"
+msgstr ""
+
+#: includes/class.init.php:311
+msgid "Join Meeting"
+msgstr ""
+
+#: includes/class.settings.php:931
+msgid "Join Sample meeting"
+msgstr ""
+
+#: includes/class.init.php:316
+msgid "Join URL"
+msgstr ""
+
+#: includes/class.init.php:308
+msgid "Join Url"
+msgstr ""
+
+#: includes/class.settings.php:522
+msgid "Label"
+msgstr ""
+
+#: includes/class.init.php:329
+msgid "List"
+msgstr ""
+
+#: includes/class.init.php:281
+msgid "Load more"
+msgstr ""
+
+#: includes/class.init.php:105
+msgid "Manage Meeting"
+msgstr ""
+
+#: includes/class.init.php:446 includes/class.init.php:447
+#, php-format
+msgid "Meeting %s is about to start in %s"
+msgstr ""
+
+#: includes/class.api.php:412
+msgid "Meeting author does not match."
+msgstr ""
+
+#: includes/class.api.php:802
+msgid "Meeting author or access does not match."
+msgstr ""
+
+#: includes/class.init.php:275
+msgid "Meeting Category"
+msgstr ""
+
+#: includes/class.init.php:274
+msgid "Meeting Content"
+msgstr ""
+
+#: includes/class.api.php:448
+msgid "Meeting could not be created on server."
+msgstr ""
+
+#: includes/class.api.php:442
+msgid "Meeting could not be created."
+msgstr ""
+
+#: includes/class.api.php:435
+msgid "Meeting could not be updated on server."
+msgstr ""
+
+#: includes/class.api.php:427
+msgid "Meeting could not be updated."
+msgstr ""
+
+#: includes/class.init.php:287
+msgid "Meeting Duration In Minutes"
+msgstr ""
+
+#: includes/class.init.php:286
+msgid "Meeting End Time"
+msgstr ""
+
+#: includes/class.groups.php:29
+msgid "Meeting name"
+msgstr ""
+
+#: includes/class.init.php:319
+msgid "Meeting Over"
+msgstr ""
+
+#: includes/class.groups.php:55
+#, php-format
+msgid "Meeting over on %s (%s)"
+msgstr ""
+
+#: includes/class.settings.php:74
+msgid "Meeting reminder time"
+msgstr ""
+
+#: includes/class.init.php:320
+msgid "Meeting Running"
+msgstr ""
+
+#: includes/class.init.php:285
+msgid "Meeting Start Time"
+msgstr ""
+
+#: includes/class.init.php:273
+msgid "Meeting Title"
+msgstr ""
+
+#: includes/class.init.php:61
+msgid "Meetings"
+msgstr ""
+
+#: includes/class.init.php:310 includes/class.init.php:323
+msgid "Minutes"
+msgstr ""
+
+#: includes/class.init.php:326
+msgid "Month"
+msgstr ""
+
+#: includes/class.api.php:567
+msgid "Moved to trash"
+msgstr ""
+
+#: includes/class.init.php:295
+msgid "Mute Upon Entry"
+msgstr ""
+
+#: includes/class.init.php:96 includes/class.init.php:271
+msgid "My Meetings"
+msgstr ""
+
+#: includes/class.groups.php:38
+msgid "NA"
+msgstr ""
+
+#: includes/class.init.php:280
+msgid "New Meeting Category"
+msgstr ""
+
+#: includes/class.init.php:276
+msgid "No Meetings found."
+msgstr ""
+
+#: includes/class.init.php:335
+msgid "No Recordings Found!"
+msgstr ""
+
+#: includes/class.init.php:282
+msgid "No Steps Created!"
+msgstr ""
+
+#: includes/class.init.php:334
+msgid "Not valid!"
+msgstr ""
+
+#: includes/class.settings.php:132
+msgid ""
+"Note: Do not remove credential if you have used to create meeting else edit "
+"meeting will not work for same meeting only."
+msgstr ""
+
+#: includes/class.groups.php:50
+msgid "Ongoing"
+msgstr ""
+
+#: includes/class.init.php:312
+msgid "Open Meeting"
+msgstr ""
+
+#: includes/class.init.php:314
+msgid "Open Meeting in new tab"
+msgstr ""
+
+#: includes/class.init.php:294
+msgid "Participants Video"
+msgstr ""
+
+#: includes/class.init.php:315
+msgid "Passcode:"
+msgstr ""
+
+#: includes/class.init.php:288
+msgid "Password"
+msgstr ""
+
+#: includes/class.init.php:279
+msgid "Preview Meeting"
+msgstr ""
+
+#: includes/class.settings.php:58
+msgid "Put your zoom JWT app api key"
+msgstr ""
+
+#: includes/class.settings.php:65
+msgid "Put your zoom JWT app secret key"
+msgstr ""
+
+#: includes/class.settings.php:126
+msgid "Save"
+msgstr ""
+
+#: includes/class.settings.php:108
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class.settings.php:274
+msgid "Saved"
+msgstr ""
+
+#: includes/class.settings.php:703
+msgid "Search Course"
+msgstr ""
+
+#: includes/class.init.php:305
+msgid "Search Result"
+msgstr ""
+
+#: includes/class.init.php:291
+msgid "Search sharing value"
+msgstr ""
+
+#: includes/class.init.php:324
+msgid "Seconds"
+msgstr ""
+
+#: includes/class.settings.php:190
+msgid "Secret Key"
+msgstr ""
+
+#: includes/class.settings.php:265 includes/class.settings.php:858
+msgid "Security check Failed. Contact Administrator !"
+msgstr ""
+
+#: includes/class.settings.php:483
+msgid "Select a page"
+msgstr ""
+
+#: includes/class.init.php:150
+msgid "Select a tag"
+msgstr ""
+
+#: includes/class.init.php:159
+msgid "Select a Zoom Meeting. Create new meetings in Zoom Meetings Menu."
+msgstr ""
+
+#: includes/class.init.php:205
+msgid "Select an Assignment which you can connect with this Unit"
+msgstr ""
+
+#: includes/class.settings.php:711
+msgid "Select Category"
+msgstr ""
+
+#: includes/class.init.php:301
+msgid "Select Co-host User"
+msgstr ""
+
+#: includes/class.init.php:299
+msgid "Select Host User"
+msgstr ""
+
+#: includes/class.init.php:298
+msgid "Select Host(Required)"
+msgstr ""
+
+#: includes/class.settings.php:719
+msgid "Select Levels"
+msgstr ""
+
+#: includes/class.settings.php:715
+msgid "Select Location"
+msgstr ""
+
+#: includes/class.init.php:300
+msgid "Select Multiple Co-Host Users(optional)"
+msgstr ""
+
+#: includes/class.settings.php:775
+msgid "Select search option"
+msgstr ""
+
+#: includes/class.init.php:290
+msgid "Select Shared Items"
+msgstr ""
+
+#: includes/class.init.php:289
+msgid "Select Sharing Type"
+msgstr ""
+
+#: includes/class.settings.php:723
+msgid "Select Text"
+msgstr ""
+
+#: includes/class.init.php:303
+msgid "Select Time Zone"
+msgstr ""
+
+#: includes/class.settings.php:707
+msgid "Select Times"
+msgstr ""
+
+#: includes/class.init.php:160
+msgid "Set as unit Video"
+msgstr ""
+
+#: includes/class.settings.php:614
+msgid "Set Field key"
+msgstr ""
+
+#: includes/class.settings.php:614
+msgid "Set Field label"
+msgstr ""
+
+#: includes/class.init.php:188
+msgid "Set Free unit, viewable to all"
+msgstr ""
+
+#: includes/class.settings.php:879
+msgid "Settings Saved."
+msgstr ""
+
+#: includes/class.init.php:304
+msgid "Shared With"
+msgstr ""
+
+#: includes/class.init.php:340
+msgid "Show recodings to user"
+msgstr ""
+
+#: includes/class.init.php:306
+msgid "Start Date"
+msgstr ""
+
+#: includes/class.init.php:313
+msgid "Start Meeting"
+msgstr ""
+
+#: includes/class.init.php:307
+msgid "Start Url"
+msgstr ""
+
+#: includes/class.init.php:330 includes/class.init.php:336
+msgid "Starts"
+msgstr ""
+
+#: includes/class.init.php:278
+msgid "Submit Meeting"
+msgstr ""
+
+#: includes/class.init.php:140
+msgid "This is the title of the unit which is displayed on top of every unit"
+msgstr ""
+
+#: includes/class.init.php:302
+msgid "Time Zone"
+msgstr ""
+
+#: includes/class.init.php:309
+msgid "TimeZone"
+msgstr ""
+
+#: includes/class.init.php:283 includes/class.settings.php:188
+msgid "Title"
+msgstr ""
+
+#: includes/class.groups.php:53
+#, php-format
+msgid "To be started on %s (%s)"
+msgstr ""
+
+#: includes/class.init.php:325
+msgid "Today"
+msgstr ""
+
+#: includes/class.init.php:277
+msgid "Type to Search.."
+msgstr ""
+
+#: includes/class.init.php:178
+msgid "Unit duration"
+msgstr ""
+
+#: includes/class.init.php:195
+msgid "Unit Forum"
+msgstr ""
+
+#: includes/class.init.php:139
+msgid "Unit Name"
+msgstr ""
+
+#: includes/class.init.php:143
+msgid "Unit Tag"
+msgstr ""
+
+#: includes/class.init.php:133
+msgid "Unit title"
+msgstr ""
+
+#: includes/class.settings.php:388
+msgid "Upload"
+msgstr ""
+
+#: includes/class.init.php:158
+msgid "Upload a Video"
+msgstr ""
+
+#: includes/class.settings.php:388
+msgid "Upload file"
+msgstr ""
+
+#: includes/class.actions.php:89
+#, php-format
+msgid "User %s created the ZOOM meeting %s"
+msgstr ""
+
+#: includes/class.actions.php:72
+#, php-format
+msgid "User %s joined the ZOOM meeting %s"
+msgstr ""
+
+#: includes/class.actions.php:88
+msgid "User created the ZOOM meeting"
+msgstr ""
+
+#: includes/class.actions.php:71
+msgid "User joined the ZOOM meeting"
+msgstr ""
+
+#: includes/class.settings.php:522
+msgid "Value"
+msgstr ""
+
+#: includes/class.api.php:776
+msgctxt "Vibe Zoo Plugin not active!"
+msgid "Vibe Zoom Plugin not active!"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class.init.php:255
+msgid "Vibe Zoom"
+msgstr ""
+
+#: includes/class.api.php:762
+msgctxt "Vibe Zoom Meeting found"
+msgid "Vibe Zoom Meeting found"
+msgstr ""
+
+#: includes/class.init.php:462
+msgid "Vibe Zoom meeting reminder"
+msgstr ""
+
+#. Author of the plugin
+msgid "VibeThemes"
+msgstr ""
+
+#: includes/class.init.php:60
+msgid "VibeZoom"
+msgstr ""
+
+#: includes/class.init.php:333
+msgid "View Details"
+msgstr ""
+
+#: includes/class.init.php:338
+msgid "View Recording"
+msgstr ""
+
+#: includes/class.init.php:327
+msgid "Week"
+msgstr ""
+
+#: includes/class.init.php:168
+msgid "What is the unit about"
+msgstr ""
+
+#: includes/class.init.php:130
+msgid "Zoom"
+msgstr ""
+
+#: includes/class.settings.php:41 includes/class.settings.php:45
+msgid "Zoom "
+msgstr ""
+
+#: includes/class.settings.php:54
+msgid "Zoom API Key"
+msgstr ""
+
+#: includes/class.init.php:434
+msgid "Zoom meeting reminder"
+msgstr ""
+
+#: includes/class.groups.php:14 includes/class.init.php:63
+#: includes/class.init.php:86 includes/class.init.php:115
+msgid "Zoom Meetings"
+msgstr ""
+
+#: includes/class.init.php:59
+msgid "Zoom meetings"
+msgstr ""
+
+#: includes/class.settings.php:61
+msgid "Zoom Secret Key"
+msgstr ""

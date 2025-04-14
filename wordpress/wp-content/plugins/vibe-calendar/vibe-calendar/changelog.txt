@@ -1,0 +1,180 @@
+* d7148ab : 1.3.1
+* 9d3f937 : storage key typo fixed
+* d08b209 : button text auto translatable
+* 89f135f : key site langauge pickup added
+* a8d5e03 : typo issue fixed
+* d81345f : language calendar
+* fd86a81 : translation show based on locale first
+* 60a8b87 : myinvites show in events fixed
+* 95dcad9 : language change option added
+* 9eb5041 : locale for invite added
+* 7d0d902 : fullcal locale based translation added
+* fe5fc35 : additional security for creating , deleting and other things impacting database
+* 3c77883 : language files updated
+* d1e30c9 : group and course events
+* d97f9c2 : 1.3
+* cf84d6d : calendar widget
+* 2a9b214 : bugs 1
+* dc272f2 : removing BUGGY Code
+* 48424c2 : test
+* 7ec7451 : invite api fixed
+* 39303b1 : hide edit option in tab calendar
+* ba5ce9d : calendar render in group
+* 1cbf1fb : view event in group added
+* ef5c5da : style fixed
+* e731ac1 : invite fixed
+* b6d8f66 : title append shared value name
+* eaa208a : filter fixed
+* d5e42c2 : post title update single function to get event
+* d2f7dc7 : manage events tab added
+* bd91743 : sharing and filtering to component added
+* 4393b04 : lable select styling fixed
+* ac650e9 : eventon shifted to wplms-eventon
+* 3dd1f6c : creator can not be removed
+* 0308083 : 1.2.1
+* 61952b7 : bug fix
+* 00e0fb4 : double calendar appearing fix
+* 1491189 : 1.2
+* ef74399 : bug fixes
+* 600412a : events
+* 8bb0b18 : version 1.2
+* 55ea36b : translations updated
+* 275321f : build complete
+* 2f5bb1b : remove vibe zoom.js
+* 352c4fd : two component showing issue fixed
+* ec3cc8c : invite,css fixed
+* 595cbd2 : change description
+* 1cd1b17 : remove notice
+* cbd0d55 : with sidebar added
+* 626bafb : avatar added
+* 7880dda : css fixed
+* 232b1d4 : my invites fixed
+* 8c780e2 : my invites calendar added
+* a00ef3e : fetch events on date change fixed
+* acc950d : 1.0
+* 4ddbf8b : 1.0
+* 9b09f19 : finalise
+* cf8c6aa : css fixes
+* 25eaa40 : translations
+* 9a71a14 : build files
+* ef4e8d9 : always render neew cal on events load but checking if start and end dates should not same to stop loop
+* 10d1e9a : show event from context function added
+* a22511a : batch rending fixed
+*   85dee09 : Merge branch 'extractattempt' into develop
+|\  
+| * c865505 : my events show fixed
+* |   73f3b96 : Merge branch 'extractattempt' into develop
+|\ \  
+| |/  
+| * caea761 : fix
+| * 8c06ea7 : minify
+| * fa71c16 : check
+| * 9fef8df : my invites calendar added
+| * 43f14a5 : some fixes
+| * 30fe919 : fetch events and show fixed without rerendering
+| * 951bbcd : removed react calendar inbuilt
+| * f4bc90b : new calendar
+| * 543b8eb : old
+| * f56d351 : extras
+| * 85b54da : nav removed and show_for_displayed_user
+| * 7baeada : user shared post fetch query added
+| * 912d17f : vibezoom initialized in calendar
+| * 8990484 : fixes
+| * 82f173f : cal
+| * f038b98 : styling changes
+| * 27b9404 : typo and view fixes
+| * 3a59591 : label filter added
+| * 60f6ebf : console removed
+| * 08046b2 : label title fixed
+| * 2dcd63a : label js added
+| * 98fd89c : restriction added for edit event
+| * f7cdef9 : restriction and and add event and remove label api added
+| * edf8ee9 : eventon extra key add on api
+| * f98020b : typo fixed
+| * 99db33a : eventon added
+| * da4a49a : eventon submenu added
+| * 7a51805 : location fixed
+| * 6af0175 : location field added and saving data to db
+| * 415988e : location field added
+| * 006f2b6 : view events before api fixed
+| * a9c9a6a : view invites before api fixed
+| * 79e2ce2 : invitation fetch fixed with start end
+| * 40ab9e7 : calendar event filter with start end added
+| * baab8bb : my invites api filter added
+| * 9d113f1 : js tabs added in invites
+| * edd24fd : events context update after accept
+| * ca12cbe : issue with my_invites mapping
+| * f9260f1 : invite added in edit page
+| * fa5f84a : invites view in calendar
+| * b447fcf : taxonomy api fixed
+| * 36baa0f : taxonomy api fixed
+| * 5411bae : all-lablels fixed
+| * ba61a90 : add_event api fixed
+| * 3a36d5a : react flatpickr removed
+| * ee2d9f3 : color added
+| * c1cf63c : color comp added
+| * 97a8da7 : fixed add edit event with date
+| * 0b8a666 : passing re
+| * 93458ab : typo fixed
+| * 5c60511 : parseInt on field value
+| * 5d8771a : show event fixed
+| * 08279c4 : drag drop added
+| * 8733ce4 : parse function moved to fullcalendar.js
+| * fc8a644 : fixes
+| * 2497317 : parse event added
+| * f0e4908 : flatpicker issue
+| * 925cbea : taxonomy token error fixed
+| * 87de174 : meta check
+| * fc72a34 : edit event for existing events ?
+| * 78749a1 : labels css fixes
+| * 01670b2 : missing data check
+| * a07ffcd : datetime fix
+| * 3b0c6d2 : datetime fix
+| * 6aff1e7 : newevent
+| * 08e9c23 : full calendar css
+| * a04aace : Customizable event fields
+| * 25c1c41 : working with label filter api
+| * 3ad0ccd : Event fields
+| * e08ea54 : Calendar taxonomy
+| * ed946a4 : api fixed
+| * 6ce0e53 : label add delete ,event color, taxonomy added
+| * 8f2c1ef : working on color
+| * ad359d2 : api can_edit
+| * 6e430b0 : some translation added
+| * 34606fd : events and invites fixed
+| * 7460a4a : full-cal used and data format changed
+| * e03efa7 : calendar js import fixed
+| * 1ab4e1a : full calendar using and comp added
+|/  
+* fac3577 : (issue)only pending or accepted invite show
+* ea98047 : invites fetch from db
+* 86c22bc : test data removed
+* 7fdd6ba : test data added
+* ca456a6 : my invites js mutation issue
+* ff7cae0 : my invites js fixed
+* 97fc99f : my invites api fixed
+* 5296f6c : week cal
+* e435c4e : event show and edit
+* 0897a5c : calendar api and appearance in week
+* e1a19d6 : translation and text domain fixed
+* 10acd05 : typo fixed
+* ffb5232 : api fixed send
+* 4c6dbd2 : events and invites added
+* cd838a8 : delete invitation added
+* ee89f13 : accept invite api added
+* 304d777 : my invites api added
+* 1ea1ba2 : add event fixed
+* 5ff397c : invite api added
+* eab6558 : search users added and api initialized
+*   5db0946 : Merge branch 'develop' of https://github.com/MrVibe/vibe-calendar into develop
+|\  
+| * 0e90f6e : ref and flatpickr implementation
+* | 0be6eb0 : my events showing
+|/  
+* 31f7324 : design and structure changes
+* bbe59c9 : my events fetch api initialized
+* 8289f56 : add event added
+* a639e36 : add event started
+* 2f87022 : calender CSS fixes
+* e8edb01 : calendar ready
+* 39dda67 : init

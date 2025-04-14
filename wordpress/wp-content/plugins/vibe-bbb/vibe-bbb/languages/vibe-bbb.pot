@@ -1,0 +1,714 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Vibe BBB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-10 11:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: VibeThemes <vibethemes@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1\n"
+"X-Poedit-Bookmarks: -1,-1,-1,-1,0,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wplms/wp-"
+"content/plugins/vibe-bbb\n"
+
+#: classes/class.init.php:523
+#, php-format
+msgid " %d days,"
+msgstr ""
+
+#: classes/class.init.php:531
+#, php-format
+msgid " %d hours,"
+msgstr ""
+
+#: classes/class.init.php:539
+#, php-format
+msgid " %d minutes,"
+msgstr ""
+
+#: classes/class.init.php:516
+#, php-format
+msgid " %d months,"
+msgstr ""
+
+#: classes/class.init.php:547
+#, php-format
+msgid " %d seconds"
+msgstr ""
+
+#: classes/class.init.php:509
+#, php-format
+msgid " %d years,"
+msgstr ""
+
+#: classes/class.api.php:441
+#, php-format
+msgid "%s published a new meeting %s"
+msgstr ""
+
+#: classes/functions.php:23
+msgid "1 Day"
+msgstr ""
+
+#: classes/functions.php:19
+msgid "1 Hour"
+msgstr ""
+
+#: classes/functions.php:22
+msgid "12 Hour"
+msgstr ""
+
+#: classes/functions.php:20
+msgid "2 Hour"
+msgstr ""
+
+#: classes/functions.php:21
+msgid "6 Hour"
+msgstr ""
+
+#: classes/class.settings.php:330
+msgid "Add"
+msgstr ""
+
+#: classes/class.init.php:261
+msgid "Add BigBlueButton Meeting"
+msgstr ""
+
+#: classes/class.settings.php:422
+msgid "Add Field"
+msgstr ""
+
+#: classes/class.settings.php:221
+msgid "Add More"
+msgstr ""
+
+#: classes/class.init.php:67
+msgid "Add New Meeting"
+msgstr ""
+
+#: classes/class.settings.php:370 classes/class.settings.php:435
+msgid "Add new option"
+msgstr ""
+
+#: classes/class.settings.php:486
+msgid "Add Search block"
+msgstr ""
+
+#: classes/class.settings.php:307
+msgid "Add Searchable Instructor Field"
+msgstr ""
+
+#: classes/class.init.php:156
+msgctxt "api"
+msgid "Alphabetical"
+msgstr ""
+
+#: classes/class.init.php:160
+msgctxt "api"
+msgid "Ascending"
+msgstr ""
+
+#: classes/class.init.php:165 classes/class.init.php:170
+msgctxt "api"
+msgid "Course"
+msgstr ""
+
+#: classes/class.init.php:159
+msgctxt "api"
+msgid "Descending "
+msgstr ""
+
+#: classes/class.init.php:164 classes/class.init.php:169
+msgctxt "api"
+msgid "Group"
+msgstr ""
+
+#: classes/class.init.php:155
+msgctxt "api"
+msgid "Recent"
+msgstr ""
+
+#: classes/class.init.php:163 classes/class.init.php:168
+msgctxt "api"
+msgid "Shared "
+msgstr ""
+
+#: classes/class.init.php:319
+msgid "Attachments"
+msgstr ""
+
+#: classes/class.init.php:188
+msgid "Attendee Password"
+msgstr ""
+
+#: classes/class.init.php:153
+msgid "BBB"
+msgstr ""
+
+#: classes/class.settings.php:34 classes/class.settings.php:38
+msgid "BBB "
+msgstr ""
+
+#: classes/class.init.php:433
+msgid "BBB meeting reminder"
+msgstr ""
+
+#: classes/class.init.php:118
+msgid "BBB Meetings"
+msgstr ""
+
+#: classes/class.actions.php:126
+msgid "BBB Room Page access not allowed!"
+msgstr ""
+
+#: classes/class.init.php:238
+msgid "BigBlueButton Meeting"
+msgstr ""
+
+#: classes/class.api.php:458
+msgid "Can not be moved to trash!"
+msgstr ""
+
+#: classes/class.init.php:216
+msgid "Cancel"
+msgstr ""
+
+#: classes/class.init.php:311
+msgid "Connect Assignments"
+msgstr ""
+
+#: classes/class.init.php:303
+msgid "Connect Forum with Unit."
+msgstr ""
+
+#: classes/class.actions.php:45
+#, php-format
+msgid "Course %s is connected with BBB meeting %s"
+msgstr ""
+
+#: classes/class.actions.php:44
+msgid "Course connected with BBB meeting"
+msgstr ""
+
+#: classes/class.init.php:174
+msgid "Create New"
+msgstr ""
+
+#: classes/class.api.php:721
+msgctxt "Data missing!"
+msgid "Data missing!"
+msgstr ""
+
+#: classes/class.init.php:212
+msgid "Day"
+msgstr ""
+
+#: classes/class.init.php:146 classes/class.init.php:203
+msgid "Days"
+msgstr ""
+
+#: classes/class.init.php:185
+msgid "Description"
+msgstr ""
+
+#: classes/class.init.php:320
+msgid "Display these attachments below units to be downloaded by students"
+msgstr ""
+
+#: classes/class.settings.php:46
+msgid "Enable meeting reminder"
+msgstr ""
+
+#: classes/class.init.php:354
+msgid "End(UTC)"
+msgstr ""
+
+#: classes/class.init.php:215
+msgid "Ends"
+msgstr ""
+
+#: classes/class.init.php:221
+msgid "Ends : "
+msgstr ""
+
+#: classes/class.init.php:384
+msgid "Ends(UTC)"
+msgstr ""
+
+#: classes/class.init.php:282
+msgid "Enter description about the unit."
+msgstr ""
+
+#: classes/class.init.php:294
+msgid "Free Unit"
+msgstr ""
+
+#: classes/class.init.php:145 classes/class.init.php:204
+msgid "Hours"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.Vibethemes.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.vibethemes.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrates Bigbluebutton with VibeBP"
+msgstr ""
+
+#: classes/class.init.php:208 classes/class.init.php:359
+msgid "Join"
+msgstr ""
+
+#: classes/class.api.php:588
+msgid "Join activity not recorded"
+msgstr ""
+
+#: classes/class.api.php:595
+msgid "Join activity recorded"
+msgstr ""
+
+#: classes/class.init.php:359
+msgid "Join url"
+msgstr ""
+
+#: classes/class.settings.php:330
+msgid "Label"
+msgstr ""
+
+#: classes/class.init.php:213
+msgid "List"
+msgstr ""
+
+#: classes/class.init.php:183
+msgid "Load more"
+msgstr ""
+
+#: classes/class.init.php:190
+msgid "Logout Redirect Url"
+msgstr ""
+
+#: classes/class.init.php:108
+msgid "Manage Meetings"
+msgstr ""
+
+#: classes/class.init.php:445 classes/class.init.php:446
+#, php-format
+msgid "Meeting %s is about to start in %s"
+msgstr ""
+
+#: classes/class.api.php:369
+msgid "Meeting author does not match."
+msgstr ""
+
+#: classes/class.api.php:747
+msgid "Meeting author or access does not match."
+msgstr ""
+
+#: classes/class.init.php:361
+msgid "Meeting can not be joined now"
+msgstr ""
+
+#: classes/class.init.php:177
+msgid "Meeting Category"
+msgstr ""
+
+#: classes/class.init.php:176
+msgid "Meeting Content"
+msgstr ""
+
+#: classes/class.api.php:380
+msgid "Meeting could not be created."
+msgstr ""
+
+#: classes/class.api.php:403
+msgid "Meeting could not be updated on server."
+msgstr ""
+
+#: classes/class.api.php:375
+msgid "Meeting could not be updated."
+msgstr ""
+
+#: classes/class.init.php:187
+msgid "Meeting End Time"
+msgstr ""
+
+#: classes/class.init.php:201
+msgid "Meeting Over"
+msgstr ""
+
+#: classes/class.settings.php:52
+msgid "Meeting reminder time"
+msgstr ""
+
+#: classes/class.init.php:202
+msgid "Meeting Running"
+msgstr ""
+
+#: classes/class.init.php:186
+msgid "Meeting Start Time"
+msgstr ""
+
+#: classes/class.init.php:175
+msgid "Meeting Title"
+msgstr ""
+
+#: classes/class.api.php:297
+msgid "Meeting url found!"
+msgstr ""
+
+#: classes/class.api.php:289
+msgid "Meeting url not found!"
+msgstr ""
+
+#: classes/class.init.php:66
+msgid "Metting"
+msgstr ""
+
+#: classes/class.init.php:144 classes/class.init.php:205
+msgid "Minutes"
+msgstr ""
+
+#: classes/class.init.php:191
+msgid "Moderator Password"
+msgstr ""
+
+#: classes/class.init.php:210
+msgid "Month"
+msgstr ""
+
+#: classes/class.init.php:148
+msgid "Months"
+msgstr ""
+
+#: classes/class.api.php:456
+msgid "Moved to trash"
+msgstr ""
+
+#: classes/class.init.php:173
+msgid "My Meetings"
+msgstr ""
+
+#: classes/class.init.php:99
+msgid "My meetings"
+msgstr ""
+
+#: classes/class.init.php:182
+msgid "New Meeting Category"
+msgstr ""
+
+#: classes/class.api.php:609
+msgctxt "No Meeting found!"
+msgid "No Meeting found!"
+msgstr ""
+
+#: classes/class.init.php:178
+msgid "No Meetings found."
+msgstr ""
+
+#: classes/class.init.php:219
+msgid "No Recordings Found!"
+msgstr ""
+
+#: classes/class.init.php:397
+msgid "No recordings found!"
+msgstr ""
+
+#: classes/class.init.php:199
+msgid "Open Meeting"
+msgstr ""
+
+#: classes/class.init.php:207
+msgid "Open Meeting In New Tab"
+msgstr ""
+
+#: classes/class.actions.php:126
+msgid "Page access not allowed"
+msgstr ""
+
+#: classes/class.init.php:181
+msgid "Preview Meeting"
+msgstr ""
+
+#: classes/class.init.php:189
+msgid "Recordable"
+msgstr ""
+
+#: classes/class.settings.php:59
+msgid "Restrict BBB Room page access"
+msgstr ""
+
+#: classes/class.settings.php:89
+msgid "Save Settings"
+msgstr ""
+
+#: classes/class.settings.php:511
+msgid "Search Course"
+msgstr ""
+
+#: classes/class.init.php:196
+msgid "Search Result"
+msgstr ""
+
+#: classes/class.init.php:194
+msgid "Search sharing value"
+msgstr ""
+
+#: classes/class.init.php:143 classes/class.init.php:206
+msgid "Seconds"
+msgstr ""
+
+#: classes/class.settings.php:666
+msgid "Security check Failed. Contact Administrator !"
+msgstr ""
+
+#: classes/class.init.php:217
+msgid "See meeting"
+msgstr ""
+
+#: classes/class.init.php:266
+msgid ""
+"Select a BigBlueButton Meeting. Create new meetings in BitBlueButton "
+"Meetings Menu."
+msgstr ""
+
+#: classes/class.settings.php:291
+msgid "Select a page"
+msgstr ""
+
+#: classes/class.init.php:258
+msgid "Select a tag"
+msgstr ""
+
+#: classes/class.init.php:312
+msgid "Select an Assignment which you can connect with this Unit"
+msgstr ""
+
+#: classes/class.settings.php:519
+msgid "Select Category"
+msgstr ""
+
+#: classes/class.init.php:197
+msgid "Select Duration Value"
+msgstr ""
+
+#: classes/class.settings.php:527
+msgid "Select Levels"
+msgstr ""
+
+#: classes/class.settings.php:523
+msgid "Select Location"
+msgstr ""
+
+#: classes/class.settings.php:583
+msgid "Select search option"
+msgstr ""
+
+#: classes/class.init.php:193
+msgid "Select Shared Items"
+msgstr ""
+
+#: classes/class.init.php:192
+msgid "Select Sharing Type"
+msgstr ""
+
+#: classes/class.settings.php:531
+msgid "Select Text"
+msgstr ""
+
+#: classes/class.settings.php:515
+msgid "Select Times"
+msgstr ""
+
+#: classes/class.init.php:267
+msgid "Set as unit Meeting"
+msgstr ""
+
+#: classes/class.settings.php:422
+msgid "Set Field key"
+msgstr ""
+
+#: classes/class.settings.php:422
+msgid "Set Field label"
+msgstr ""
+
+#: classes/class.init.php:295
+msgid "Set Free unit, viewable to all"
+msgstr ""
+
+#: classes/class.settings.php:688
+msgid "Settings Saved."
+msgstr ""
+
+#: classes/class.init.php:195
+msgid "Shared With"
+msgstr ""
+
+#: classes/class.init.php:218
+msgid "Show Recodings To User"
+msgstr ""
+
+#: classes/class.init.php:200
+msgid "Start Meeting"
+msgstr ""
+
+#: classes/class.init.php:353
+msgid "Start(UTC)"
+msgstr ""
+
+#: classes/class.init.php:214
+msgid "Starts"
+msgstr ""
+
+#: classes/class.init.php:220
+msgid "Starts : "
+msgstr ""
+
+#: classes/class.init.php:383
+msgid "Starts(UTC)"
+msgstr ""
+
+#: classes/class.init.php:180
+msgid "Submit Meeting"
+msgstr ""
+
+#: classes/class.init.php:248
+msgid "This is the title of the unit which is displayed on top of every unit"
+msgstr ""
+
+#: classes/class.init.php:184
+msgid "Title"
+msgstr ""
+
+#: classes/class.init.php:209
+msgid "Today"
+msgstr ""
+
+#: classes/class.init.php:179
+msgid "Type to Search.."
+msgstr ""
+
+#: classes/class.init.php:285
+msgid "Unit duration"
+msgstr ""
+
+#: classes/class.init.php:302
+msgid "Unit Forum"
+msgstr ""
+
+#: classes/class.init.php:247
+msgid "Unit Name"
+msgstr ""
+
+#: classes/class.init.php:251
+msgid "Unit Tag"
+msgstr ""
+
+#: classes/class.init.php:241
+msgid "Unit title"
+msgstr ""
+
+#: classes/class.settings.php:196
+msgid "Upload"
+msgstr ""
+
+#: classes/class.settings.php:196
+msgid "Upload file"
+msgstr ""
+
+#: classes/class.actions.php:89
+#, php-format
+msgid "User %s created the BBB meeting %s"
+msgstr ""
+
+#: classes/class.actions.php:72
+#, php-format
+msgid "User %s joined the BBB meeting %s"
+msgstr ""
+
+#: classes/class.actions.php:88
+msgid "User created the BBB meeting"
+msgstr ""
+
+#: classes/class.actions.php:71
+msgid "User joined the BBB meeting"
+msgstr ""
+
+#: classes/class.settings.php:330
+msgid "Value"
+msgstr ""
+
+#: classes/class.init.php:89
+msgid "Vibe BBB"
+msgstr ""
+
+#: classes/class.api.php:713
+msgctxt "Vibe Bbb Meeting found"
+msgid "Vibe Bbb Meeting found"
+msgstr ""
+
+#: classes/class.init.php:461
+msgid "Vibe BBB meeting reminder"
+msgstr ""
+
+#: classes/class.init.php:68
+msgid "Vibe Bbb Meetings"
+msgstr ""
+
+#: vibe-bbb.php:33
+#, php-format
+msgid ""
+"Vibe bbb needs %s plugin to be activated and its version should be 3.0.0 or "
+"above"
+msgstr ""
+
+#. Name of the plugin
+msgid "Vibe BigBluebutton"
+msgstr ""
+
+#. Author of the plugin
+msgid "VibeThemes"
+msgstr ""
+
+#: classes/class.init.php:222
+msgid "View Recording"
+msgstr ""
+
+#: classes/class.init.php:389
+msgid "View recording"
+msgstr ""
+
+#: classes/class.init.php:198
+msgid "Wait For Moderator"
+msgstr ""
+
+#: classes/class.init.php:211
+msgid "Week"
+msgstr ""
+
+#: classes/class.init.php:147
+msgid "Weeks"
+msgstr ""
+
+#: classes/class.init.php:275
+msgid "What is the unit about"
+msgstr ""
+
+#: classes/class.init.php:64 classes/class.init.php:65
+msgid "Wplms-Bbb"
+msgstr ""
